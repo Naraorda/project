@@ -1,0 +1,16 @@
+{
+    "host": "www.dothome.com/naraorda7",
+    "username": "naraorda",
+    "password": "jkjk8795",
+    "remotePath": "/test",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode/*"
+    ]
+}
